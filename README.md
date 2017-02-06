@@ -3,7 +3,7 @@ CryptoBee integration/staging tree
 
 http://www.cryptobee.org
 
-Copyright (c) 2009-2013 CryptoBee Developers
+Copyright (c) 2016-2017 CryptoBee Developers
 
 What is CryptoBee?
 ----------------
@@ -42,7 +42,7 @@ match the project's coding conventions (see `doc/coding.md`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/cryptobee/cryptobee/tags) are created
+completely stable. [Tags](https://github.com/beemaster21/CryptoBee/tags) are created
 regularly to indicate new official, stable release versions of CryptoBee.
 
 Testing
@@ -79,4 +79,4 @@ for the build/test scripts.
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
 
-See https://github.com/cryptobee/QA/ for how to create a test plan.
+See https://github.com/beemaster21/QA/ for how to create a test plan.
